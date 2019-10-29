@@ -1,0 +1,13 @@
+{
+	"manifest_version": 2,
+
+	"name": "Fix Youtube Date Bug",
+	"version": "1.0.0",
+	"description": "a simple way to fix a youtube bug which the date does not show up at videos.",
+
+  	"content_scripts": [{
+    	"js": ["jquery-3.4.1.min.js", "script.js"],
+    	"matches": ["https://www.youtube.com/*"]
+  	}]
+	
+}
