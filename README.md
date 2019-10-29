@@ -4,7 +4,7 @@
 
 There is a youtube bug which makes the date of the video does not show up.
 
-Basically, if that happens to you, you can see the youtube video date by zooming out the page to 80% or 70%.
+Basically the date appears by zooming out the page to 80% or 70%.
 TeamYoutube pronunciated themselves saying they already fixed it on **9/26/19** (https://support.google.com/youtube/thread/13826560?hl=en) but it seems not to be true.
 
 Here's an screenshot I took on **10/29/19:**
