@@ -28,6 +28,4 @@ Zoomed out, same effect:
 
 ![](Screenshots/Screenshot_4.png)
 
-### How to Install Chrome Extensions
-
-Official Google tutorial: https://support.google.com/chrome/a/answer/2714278?hl=pt-BR
+### Check out INSTALL.md file to learn how to install this extension.
